@@ -15,4 +15,4 @@ english number from 1 to 10 inclusive
 
 
 eng_dig = input('Input digit in English   ')
-print('In Russian it calls:' + ' ' + num_translate(eng_dig))
+print(f"In Russian it calls:\n{num_translate(eng_dig)}")
