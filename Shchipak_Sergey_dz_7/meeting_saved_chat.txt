@@ -1,0 +1,88 @@
+20:04:52 From  Turtsakov Egor  to  Everyone:
+	Здравствуйте
+20:24:52 From  Nikita  to  Everyone:
+	Всем привет!. Маловато нас что-то
+20:25:14 From  Андрей Проститов  to  Everyone:
+	я не смотрю, жду когда закончится дз
+20:41:48 From  Андрей Проститов  to  Everyone:
+	а если ищем несуществующий файл, то он просто ничего не покажет?
+20:42:51 From  Андрей Проститов  to  Everyone:
+	не смотрел) 	да, я понял.
+20:44:22 From  Андрей Проститов  to  Everyone:
+	0 и 1 там?
+20:52:45 From  Sergey Schipak  to  Everyone:
+	help
+20:52:45 From  Anton Stogov  to  Everyone:
+	show
+21:13:27 From  Ivan Zharov  to  Everyone:
+	Только хотел спросить про это
+21:17:18 From  kovantigo  to  Everyone:
+	Вы спросите, все ли знают, что такое рекурсия
+21:17:53 From  slade  to  Everyone:
+	А в какой четверти он будет?
+21:35:07 From  slade  to  Everyone:
+	Какая разница мы же в любом случае получаем ошибку и описание ошибки
+21:35:29 From  slade  to  Everyone:
+	Я не про это
+21:35:34 From  slade  to  Everyone:
+	я про отлов
+21:35:41 From  slade  to  Everyone:
+	Я дерный и не ядерный
+21:36:01 From  slade  to  Everyone:
+	lf
+21:36:11 From  slade  to  Everyone:
+	Вот
+21:36:12 From  slade  to  Everyone:
+	ДА
+21:38:01 From  kovantigo  to  Everyone:
+	Короче, исключение использовать, когда хотим узнать конкретную ошибку
+21:38:25 From  slade  to  Everyone:
+	ЗАпустите программу
+21:41:26 From  Ivan Zharov  to  Everyone:
+	А если else убрать?
+21:41:36 From  Ivan Zharov  to  Everyone:
+	рзве не выведет контент
+21:41:42 From  Sergey Schipak  to  Everyone:
+	можно же совсем без finaly
+21:41:45 From  Sergey Schipak  to  Everyone:
+	?
+21:41:57 From  Алексей Мудрак  to  Everyone:
+	А зачем finally, если мы можем просто в скрипте программы написать
+21:41:59 From  Алексей Мудрак  to  Everyone:
+	?
+21:42:15 From  Ivan Zharov  to  Everyone:
+	Нет нет, если убрать else и оставить вывод контента, разве не выведет?
+21:42:22 From  Sergey Schipak  to  Everyone:
+	просто принт оставьте вконце
+21:48:22 From  slade  to  Everyone:
+	нижний
+21:53:54 From  Ivan Zharov  to  Everyone:
+	словарь
+21:53:55 From  Ivan Zharov  to  Everyone:
+	?
+21:53:58 From  Sergey Schipak  to  Everyone:
+	словарь
+21:54:11 From  Maria Andreeva  to  Everyone:
+	yaml
+21:56:34 From  Sergey Schipak  to  Everyone:
+	В материалах нет ямла
+22:01:14 From  Ivan Zharov  to  Everyone:
+	Спасибо! Спокойной ночи)
+22:01:22 From  Turtsakov Egor  to  Everyone:
+	Нету
+22:01:30 From  Banderas  to  Everyone:
+	how much is the fish )))))))))))))0
+22:01:32 From  slade  to  Everyone:
+	Вроде нет. Нужно еще раз пересмотреть)
+22:01:48 From  Даниил  to  Everyone:
+	про классы мельком затронули
+22:01:54 From  Даниил  to  Everyone:
+	хотелось подробнее
+22:02:05 From  Даниил  to  Everyone:
+	что это вообще в принципе
+22:02:14 From  Banderas  to  Everyone:
+	классы дальше будут
+22:02:46 From  Ирина Филиппенко  to  Everyone:
+	Страшно браться за д
+22:05:01 From  Алексей Мудрак  to  Everyone:
+	Спасибо!
