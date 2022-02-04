@@ -11,6 +11,7 @@ def dir_ext_stat_files(argv):
     targ_dir: str
     """
     import os
+    import json
     targ_dir = ''
     if len(argv) == 2:
         program, targ_dir = argv
@@ -46,7 +47,9 @@ def dir_ext_stat_files(argv):
     dist_stat = {'100': (ss, list(set(ss_ext))), '1000': (s, list(set(s_ext))), '10000': (m, list(set(m_ext))),
                  '100000': (b, list(set(b_ext)))}
     print(dist_stat, type(dist_stat))
-
+    name_file = targ_dir.split("/")[-1]+"_summary.json"
+    with open(name_file, 'w', encoding="utf-8") as f:
+        f.write(json.dumps(dist_stat))
 
 if __name__ == '__main__':
     import sys
