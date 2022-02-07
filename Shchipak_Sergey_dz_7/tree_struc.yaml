@@ -1,0 +1,8 @@
+- my_project:
+  - mainapp:
+    - adminapp
+  - authapp
+- new_project:
+  - mainapp
+  - adminapp
+  - authapp
